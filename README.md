@@ -78,13 +78,14 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### Latest Activity
+#### Starting from 2020-12-08
 
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 
 [youtube]: https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg
 [linkedin]: https://www.linkedin.com/in/emanuel-coelho-6717b027
