@@ -34,8 +34,6 @@
 <img alt="Markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
 <img alt="Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 
-
-<br />
 <br />
 
 ### Most Used Frameworks/Libraries:
@@ -47,7 +45,6 @@
 <img alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
 <img alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 
-<br />
 <br />
 
 ### Tools/IDEs
@@ -61,7 +58,6 @@
 <img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 <img alt="MacOS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />
 
-<br />
 <br />
 
 ### Learning and Mastering:
