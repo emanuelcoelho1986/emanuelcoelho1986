@@ -28,44 +28,44 @@
 
 ### Most Used Languages:
 
-[<img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />]()
-[<img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />]()
-[<img alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />]()
-[<img alt="Markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />]()
-[<img alt="Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />]()
+[<img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
+[<img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
+[<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img alt="CSS" width="30px" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" />]()
+[<img alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />]()
+[<img alt="Shell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
 <br />
 
 ### Most Used Frameworks/Libraries:
 
-[<img alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />]()[]
-[<img alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />]()
-[<img alt="SASS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />]()
-[<img alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />]()
-[<img alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />]()
-[<img alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />]()
+[<img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
+[<img alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]()
+[<img alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
+[<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+[<img alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />]()
+[<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
 
 <br />
 
 ### Tools/IDEs
 
-[<img alt="Express" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />]()
-[<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />]()
-[<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]()
-[<img alt="Teams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" />]()
-[<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />]()
-[<img alt="IntelliJ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />]()
-[<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />]()
-[<img alt="MacOS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />]()
+[<img alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />]()
+[<img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img alt="Teams" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" />]()
+[<img alt="Docker" width="40px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" />]()
+[<img alt="IntelliJ" width="30px" src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" />]()
+[<img alt="MacOS" width="30px" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" />]()
+[<img alt="Github" width="30px" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />](https://www.github.com)
 
 <br />
 
 ### Learning and Mastering:
 
-[<img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]()
-[<img alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />]()
-[<img alt="React Native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>]()
-[<img alt="Storybook JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/storybook.svg" />]()
+[<img alt="Java" width="30px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />]()
+[<img alt="Springboot" width="30px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />]()
+[<img alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>]()
+[<img alt="Storybook JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />]()
 
 ---
 
