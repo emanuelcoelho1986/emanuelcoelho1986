@@ -28,44 +28,44 @@
 
 ### Most Used Languages:
 
-[<img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />]
-[<img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />]
-[<img alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />]
-[<img alt="Markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />]
-[<img alt="Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />]
+[<img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />]()
+[<img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />]()
+[<img alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />]()
+[<img alt="Markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />]()
+[<img alt="Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />]()
 
 <br />
 
 ### Most Used Frameworks/Libraries:
 
-<img alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
-<img alt="SASS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
-<img alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />
-<img alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
+[<img alt="NodeJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />]()[]
+[<img alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />]()
+[<img alt="SASS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />]()
+[<img alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />]()
+[<img alt="Redux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg" />]()
+[<img alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />]()
 
 <br />
 
 ### Tools/IDEs
 
-<img alt="Express" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
-<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img alt="Teams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" />
-<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img alt="IntelliJ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />
-<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img alt="MacOS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />
+[<img alt="Express" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />]()
+[<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />]()
+[<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]()
+[<img alt="Teams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" />]()
+[<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />]()
+[<img alt="IntelliJ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg" />]()
+[<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />]()
+[<img alt="MacOS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" />]()
 
 <br />
 
 ### Learning and Mastering:
 
-<img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
-<img alt="React Native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
-<img alt="Storybook JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/storybook.svg" />
+[<img alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />]()
+[<img alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />]()
+[<img alt="React Native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>]()
+[<img alt="Storybook JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/storybook.svg" />]()
 
 ---
 
