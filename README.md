@@ -86,6 +86,79 @@
 #### Starting from 2020-12-08
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 177 Contributions in the Year 2020
+ > 
+> 📦 92.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 38 Private Repositories  
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
+🌆 Daytime    68 commits     ██████████████░░░░░░░░░░░   55.74% 
+🌃 Evening    34 commits     ███████░░░░░░░░░░░░░░░░░░   27.87% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
+Tuesday      32 commits     ██████░░░░░░░░░░░░░░░░░░░   26.23% 
+Wednesday    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46% 
+Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+Friday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
+Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Sunday       46 commits     █████████░░░░░░░░░░░░░░░░   37.7%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/emanuelcoelho1986/emanuelcoelho1986/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ---
