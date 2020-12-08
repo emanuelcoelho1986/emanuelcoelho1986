@@ -28,11 +28,11 @@
 
 ### Most Used Languages:
 
-<img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />
-<img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img alt="Markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
-<img alt="Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
+[<img alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />]
+[<img alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />]
+[<img alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />]
+[<img alt="Markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />]
+[<img alt="Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />]
 
 <br />
 
