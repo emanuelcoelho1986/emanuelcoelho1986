@@ -9,7 +9,6 @@
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Somtimes I stream my gameplay.
 
 <br />
-<br />
 
 ### Spotify Playing 🎧
 
