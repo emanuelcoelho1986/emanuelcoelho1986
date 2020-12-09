@@ -1,12 +1,12 @@
 ### Hi there, I'm Emanuel 👋
 
-- 🔭 I’m currently working with [Polarising](https:/www.polarising.com)
-- 🌱 I’m currently learning [Springboot](https://spring.io/projects/spring-boot)
+- 🔭 I'm currently working with [Polarising](https:/www.polarising.com)
+- 🌱 I'm currently learning [Springboot](https://spring.io/projects/spring-boot)
 - 🥅 2020 Goals: 
   - Learn two a new Framework (Springboot)
   - Master [React Native](https://reactnative.dev)
   - Launch my personal website
-- ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Somtimes I stream my gameplay.
+- ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
 <br />
 
