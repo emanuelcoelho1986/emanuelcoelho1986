@@ -86,11 +86,11 @@
 #### Starting from 2020-12-08
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 7 Contributions in the Year 2021
  > 
 > 📦 92.4 kB Used in Github's Storage 
  > 
