@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working with [Polarising](https:/www.polarising.com)
 - 🌱 I'm currently learning [Springboot](https://spring.io/projects/spring-boot)
-- 🥅 2020 Goals: 
+- 🥅 2021 Goals: 
   - Learn two a new Framework (Springboot)
   - Master [React Native](https://reactnative.dev)
   - Launch my personal website
