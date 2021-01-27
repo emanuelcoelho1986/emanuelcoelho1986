@@ -86,11 +86,11 @@
 #### Starting from 2020-12-08
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 33 Contributions in the Year 2021
+> 🏆 35 Contributions in the Year 2021
  > 
 > 📦 93.0 kB Used in Github's Storage 
  > 
@@ -160,7 +160,7 @@ Windows                  18 mins             ░░░░░░░░░░░�
 JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
 HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 ```
