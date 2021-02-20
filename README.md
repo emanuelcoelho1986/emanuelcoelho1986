@@ -52,16 +52,16 @@
 [<img alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />]()
 [<img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
 [<img alt="Teams" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" />]()
-[<img alt="Docker" width="40px" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" />]()
-[<img alt="IntelliJ" width="30px" src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" />]()
-[<img alt="MacOS" width="30px" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" />]()
-[<img alt="Github" width="30px" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />](https://www.github.com)
+[<img alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />]()
+[<img alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />]()
+[<img alt="MacOS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />]()
+[<img alt="Github" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />](https://www.github.com)
 
 <br />
 
 ### Learning and Mastering:
 
-[<img alt="Java" width="30px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />]()
+[<img alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />]()
 [<img alt="Springboot" width="30px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />]()
 [<img alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>]()
 [<img alt="Storybook JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />]()
