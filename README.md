@@ -1,7 +1,7 @@
 ### Hi there, I'm Emanuel 👋
 
 - 🔭 I'm currently working with **REDACTED**
-- 🌱 I'm currently learning [Springboot](https://spring.io/projects/spring-boot)
+- 🌱 I'm currently investigating which Backend Technology I'll focus on to learn more about it
 - 🥅 2021 Goals: 
   - Choose and increase knowledge Backend Knowledge (Springboot, Scala, Go. I need to check and decide which one will be)
   - Launch my personal website
