@@ -3,8 +3,7 @@
 - 🔭 I'm currently working with [Polarising](https:/www.polarising.com)
 - 🌱 I'm currently learning [Springboot](https://spring.io/projects/spring-boot)
 - 🥅 2021 Goals: 
-  - Learn two a new Framework (Springboot)
-  - Master [React Native](https://reactnative.dev)
+  - Choose and increase knowledge Backend Knowledge (Springboot, Scala, Go. I need to check and decide which one will be)
   - Launch my personal website
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
