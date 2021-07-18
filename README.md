@@ -1,5 +1,7 @@
 ### Hi there, I'm Emanuel 👋
 
+My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.app/)
+
 - 🔭 I'm currently working with **REDACTED**
 - 🌱 I'm currently investigating which Backend Technology I'll focus on to learn more about it
 - 🥅 2021 Goals: 
