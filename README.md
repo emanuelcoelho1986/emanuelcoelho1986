@@ -165,7 +165,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/emanuelcoelho1986/emanuelcoelho1986/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2021
+ Last Updated on 01/09/2021
 <!--END_SECTION:waka-->
 
 ---
