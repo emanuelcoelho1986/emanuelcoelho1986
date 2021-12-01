@@ -72,11 +72,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Relaxing Time](https://www.youtube.com/watch?v=Ut4EiafIiKI)
+- [Something](https://www.youtube.com/watch?v=qcGWDU-PFhA)
 - [Hades - First time playing](https://www.youtube.com/watch?v=JUZA5vFShbs)
 - [Small play through a stronghold](https://www.youtube.com/watch?v=t5vFgnIXwlM)
 - [Realx.... enjoy....](https://www.youtube.com/watch?v=MR5V-MyT0ZE)
-- [Borderlands 3 - Mayhem 10 Weapons](https://www.youtube.com/watch?v=PPUxbPqqd1I)
-- [Borderlands 3 - Crazy Damage Mayhem 10](https://www.youtube.com/watch?v=1_1qxHCXG9A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
