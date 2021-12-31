@@ -130,20 +130,16 @@ Sunday       37 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        ████████████████░░░░░░░░░   67.1% 
-SCSS                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
-HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 53 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-webapp                   1 hr 53 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -164,7 +160,7 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/emanuelcoelho1986/emanuelcoelho1986/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 
 ---
