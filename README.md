@@ -86,7 +86,7 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 #### Starting from 2020-12-08
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -166,7 +166,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/emanuelcoelho1986/emanuelcoelho1986/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 00:06:32 UTC
+ Last Updated on 09/03/2022 00:06:23 UTC
 <!--END_SECTION:waka-->
 
 ---
