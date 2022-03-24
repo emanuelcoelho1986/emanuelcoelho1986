@@ -4,9 +4,8 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 
 - 🔭 I'm currently working with **REDACTED**
 - 🌱 I'm currently investigating which Backend Technology I'll focus on to learn more about it
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
   - Choose and increase knowledge Backend Knowledge (Springboot, Scala, Go. I need to check and decide which one will be)
-  - Launch my personal website
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
 <br />
