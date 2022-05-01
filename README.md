@@ -70,11 +70,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Sekiro](https://www.youtube.com/watch?v=nAM7BH9_Q_w)
 - [SW - Online... It&#39;s been a while &lpar;since launch xD&rpar;](https://www.youtube.com/watch?v=zLwW8v1X5zo)
 - [Relaxing Time](https://www.youtube.com/watch?v=Ut4EiafIiKI)
 - [Something](https://www.youtube.com/watch?v=qcGWDU-PFhA)
 - [Hades - First time playing](https://www.youtube.com/watch?v=JUZA5vFShbs)
-- [Small play through a stronghold](https://www.youtube.com/watch?v=t5vFgnIXwlM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
