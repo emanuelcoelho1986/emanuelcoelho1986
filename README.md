@@ -29,7 +29,7 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 [<img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
 [<img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img alt="CSS" width="30px" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" />]()
+[<img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />]()
 [<img alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />]()
 [<img alt="Shell" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
@@ -42,6 +42,7 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 [<img alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 [<img alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 [<img alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />]()
+[<img alt="EmberJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" />]()
 [<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
 
 <br />
@@ -50,7 +51,7 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 
 [<img alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />]()
 [<img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img alt="Teams" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" />]()
+[<img alt="Slack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />]()
 [<img alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />]()
 [<img alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />]()
 [<img alt="MacOS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />]()
@@ -60,10 +61,10 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 
 ### Learning and Mastering:
 
-[<img alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />]()
-[<img alt="Springboot" width="30px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />]()
-[<img alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>]()
-[<img alt="Storybook JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />]()
+[<img alt="EmberJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" />]()
+[<img alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />]()
+[<img alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />]()
+[<img alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />]()
 
 ---
 
