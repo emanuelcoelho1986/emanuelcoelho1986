@@ -71,11 +71,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Diablo 4 - Open Beta &lpar;no comment&rpar;](https://www.youtube.com/watch?v=7G0hJxqPBXs)
 - [WoW - Shadowlands](https://www.youtube.com/watch?v=uvBvCvr1HDk)
 - [R-Type](https://www.youtube.com/watch?v=Q48-fI1ALSE)
 - [Sekiro - 2nd run](https://www.youtube.com/watch?v=LeHT9fPlsfE)
 - [Sekiro V2](https://www.youtube.com/watch?v=QxSN9jT9ONU)
-- [Sekiro](https://www.youtube.com/watch?v=nAM7BH9_Q_w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
