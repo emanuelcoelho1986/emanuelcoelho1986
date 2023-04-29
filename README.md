@@ -2,10 +2,10 @@
 
 My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.app/)
 
-- 🔭 I'm currently working with **REDACTED**
-- 🌱 I'm currently investigating which Backend Technology I'll focus on to learn more about it
-- 🥅 2022 Goals: 
-  - Choose and increase knowledge with the following Language(s) (Go, Rust, Dart).
+- 🔭 I'm currently working with **[Vigil,lda](https://vigil.global/)**
+- 🌱 I'm currently working with EmberJS, Docker and moving again to ReactJS
+- 🥅 2023 Goals: 
+  - Learn Rust
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
 <br />
