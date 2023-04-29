@@ -63,7 +63,6 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 
 [<img alt="EmberJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" />]()
 [<img alt="Rust" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />]()
-[<img alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />]()
 [<img alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />]()
 
 ---
