@@ -70,11 +70,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Go go go](https://www.youtube.com/watch?v=bCOs6aNDtjw)
+- [Shooting stars... &lpar;No commentary&rpar;](https://www.youtube.com/watch?v=R8VQ3uqAp4Q)
 - [Destiny 2 - No Comentary](https://www.youtube.com/watch?v=cV4hwkyT_88)
 - [Go go](https://www.youtube.com/watch?v=CetOX8T1NJ8)
 - [Test](https://www.youtube.com/watch?v=9cqgBgOkRmU)
-- [Go go go](https://www.youtube.com/watch?v=uvkSrs8TwZA)
-- [Diablo 2 - No Comments](https://www.youtube.com/watch?v=LfP3OWZYQxg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
