@@ -2,9 +2,9 @@
 
 My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.app/)
 
-- 🔭 I'm currently working with **[Vigil,lda](https://vigil.global/)**
-- 🌱 I'm currently working with EmberJS, Docker and moving again to ReactJS
-- 🥅 2023 Goals: 
+- I'm currently working with **[Vigil,lda](https://vigil.global/)**
+- I'm currently working with EmberJS, Docker and moving again to ReactJS
+- 2023 Goals: 
   - Learn Rust
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
