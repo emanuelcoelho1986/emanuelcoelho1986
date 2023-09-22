@@ -5,8 +5,8 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 - I'm currently working with **[Vigil,lda](https://vigil.global/)**
 - I'm currently working with EmberJS, Docker and moving again to ReactJS
 - 2023 Goals: 
-  - Learn Rust
-  - Learn NeoVim
+  - [<img alt="Rust Lang" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />](https://www.rust-lang.org/) Learn Rust
+  - [<img alt="NeoVim" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />](https://neovim.io/) Learn NeoVim 
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
 <br />
@@ -57,6 +57,7 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 [<img alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />]()
 [<img alt="MacOS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />]()
 [<img alt="Github" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />](https://www.github.com)
+[<img alt="NeoVim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />](https://neovim.io/)
 
 <br />
 
