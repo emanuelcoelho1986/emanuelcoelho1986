@@ -72,11 +72,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Control](https://www.youtube.com/watch?v=Zfd0u755KfY)
 - [Diablo 4 - Tier 3 - World Boss](https://www.youtube.com/watch?v=kL3xmQxOqwE)
 - [Halo  The Master Chief Collection - Halo 4](https://www.youtube.com/watch?v=0X-3Ssbg-14)
 - [Halo 4 - Final](https://www.youtube.com/watch?v=VZeRCNAWHY4)
 - [Star Wars  The Old Republic - Mount Summon](https://www.youtube.com/watch?v=BLcYX90A5SQ)
-- [Destiny 2 - Season End](https://www.youtube.com/watch?v=d7Vlg6BnCIU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
