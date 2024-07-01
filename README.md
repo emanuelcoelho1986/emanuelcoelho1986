@@ -72,11 +72,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Helldivers 2 - No ccomments](https://www.youtube.com/watch?v=a4uALmbjz_8)
 - [Destiny 2 - Silver Surfer Mode](https://www.youtube.com/watch?v=pOL5bKJP4LQ)
 - [Cyberpunk 2077 - He was cold](https://www.youtube.com/watch?v=ak7zemBkgbU)
 - [Go go go - Cyberpunk, No Commentary](https://www.youtube.com/watch?v=EmKBbm8DjTU)
 - [Control](https://www.youtube.com/watch?v=Zfd0u755KfY)
-- [Diablo 4 - Tier 3 - World Boss](https://www.youtube.com/watch?v=kL3xmQxOqwE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
