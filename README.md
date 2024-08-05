@@ -3,10 +3,11 @@
 My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.app/)
 
 - I'm currently working with **[Vigil,lda](https://vigil.global/)**
-- I'm currently working with EmberJS, Docker and moving again to ReactJS
-- 2023 Goals: 
-  - [<img alt="Rust Lang" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />](https://www.rust-lang.org/) Learn Rust
-  - [<img alt="NeoVim" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />](https://neovim.io/) Learn NeoVim 
+- I'm currently working with React, Docker. The previous project was with EmberJS and helped in a third party lib using StencilJS
+- 2024 Goals:
+  - [<img alt="Rust Lang" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />](**https://svelte.dev/**) Learn Svelte
+  - [<img alt="Rust Lang" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />](https://www.rust-lang.org/) Keep learning Rust
+  - [<img alt="NeoVim" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />](https://neovim.io/) Keep learning NeoVim 
 - ⚡ extra about me: I love to play videogames! Lately, Destiny is by far the game I play most. Sometimes I stream my gameplay.
 
 <br />
