@@ -70,7 +70,7 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Helldivers 2 - No ccomments](https://www.youtube.com/watch?v=a4uALmbjz_8)
+- [Helldivers 2 - No comments](https://www.youtube.com/watch?v=a4uALmbjz_8)
 - [Destiny 2 - Silver Surfer Mode](https://www.youtube.com/watch?v=pOL5bKJP4LQ)
 - [Cyberpunk 2077 - He was cold](https://www.youtube.com/watch?v=ak7zemBkgbU)
 - [Go go go - Cyberpunk, No Commentary](https://www.youtube.com/watch?v=EmKBbm8DjTU)
