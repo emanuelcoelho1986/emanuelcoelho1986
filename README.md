@@ -108,10 +108,6 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/emanuelcoelho1986/emanuelcoelho1986/master/charts/bar_graph.png) 
-
 
  Last Updated on 25/04/2022 00:06:34 UTC
 <!--END_SECTION:waka-->
