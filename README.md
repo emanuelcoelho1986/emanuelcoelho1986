@@ -66,11 +66,11 @@ My personal website: [https://my-info-f7508.web.app/](https://my-info-f7508.web.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Emanuel Coelho Live Stream](https://www.youtube.com/watch?v=PCzLskRMgKA)
+- [Emanuel Coelho Live Stream](https://www.youtube.com/watch?v=YKcDyr7BAaM)
 - [Emanuel Coelho Live Stream](https://www.youtube.com/watch?v=yaRI-50g_WA)
 - [Emanuel Coelho Live Stream](https://www.youtube.com/watch?v=Ci1CL6cMZmU)
 - [Final Fantasy VII - Mods](https://www.youtube.com/watch?v=brSi0ynsQXM)
-- [Sekiro](https://www.youtube.com/watch?v=vEQRpi-EucI)
-- [Helldivers 2 - No comments](https://www.youtube.com/watch?v=a4uALmbjz_8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCLwCp9VA1xWe40Elfx8JBCg)
